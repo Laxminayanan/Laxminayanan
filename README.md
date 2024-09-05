@@ -62,6 +62,7 @@ I am a first-year B.Tech student majoring in Computer Science with a deep passio
 
 - **Email:** [laxminayanan546@gmail.com]
 - **GitHub:** [https://github.com/Laxminayanan]
+- **Facebook** .[https://www.facebook.com/profile.php?id=61565424090941&mibextid=ZbWKwL]
 - 📫 Reach me at **[8106433312]**.
 
 
