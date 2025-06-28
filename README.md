@@ -61,13 +61,9 @@ I am a first-year B.Tech student majoring in Computer Science with a deep passio
 ## 📫 Connect with Me
 
 - **Email:** [laxminayanan546@gmail.com]
-- **GitHub:** [https://github.com/Laxminayanan]
 - **Facebook** .[https://www.facebook.com/profile.php?id=61565424090941&mibextid=ZbWKwL]
 - 📫 Reach me at **[8106433312]**.
 
 
-## ⚡ Fun Fact
-
-I'm a tech enthusiast who believes in the power of technology to drive innovation and creativity. Whether I’m coding a new project, participating in a hackathon, or exploring new areas in tech, I’m always excited to take on new challenges and learn something new.
 
 **Let's connect!** Feel free to reach out to discuss projects or collaborations.
