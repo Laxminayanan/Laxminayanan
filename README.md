@@ -18,9 +18,6 @@ I am a Second-year B.Tech student majoring in Computer Science with a deep passi
 - **Full-Stack Development:** 
   - As a budding full-stack developer, I am learning to integrate front-end and back-end technologies to build comprehensive and user-centric web applications.
 
-- **DevOps:** 
-  - I am exploring the DevOps landscape, focusing on automation, CI/CD pipelines, and infrastructure as code to streamline software development processes.
-
 - **Open Source Contributions:** 
   - I am an advocate of the open-source community and actively contribute to projects that align with my areas of expertise and interest.
 
