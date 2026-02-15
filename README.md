@@ -7,6 +7,5 @@ I am a Second-year B.Tech student majoring in Computer Science with a deep passi
 ## 📫 Connect with Me
 
 - **Email:** [laxminayanan546@gmail.com]
-- 📫 Reach me at **[+91 8106433312]**.
 
 **Let's connect!** Feel free to reach out to discuss projects or collaborations.
